@@ -8,5 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": "github.com/dorom/example-package"
+  "repository": "git://github.com/dorom/example-package",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
